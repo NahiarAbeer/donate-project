@@ -1,0 +1,202 @@
+html,body
+{
+  margin: 0;
+  padding: 0;
+  font-family: poppins;
+}
+.pic
+{
+  background-image: linear-gradient(transparent,rgba(0,0,0,2)) ,url('images/cover.jpg');
+
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 600px;
+  color: #fff;
+  background-size: cover;
+  background-position: top;
+  padding: 0;
+
+}
+.cont h1
+{
+
+  text-transform: capitalize;
+}
+
+.cont
+{
+
+  padding: 20% 30%;
+  padding-bottom: 30%;
+  text-align: center;
+}
+a
+{
+  text-decoration: none;
+  color: white;
+  padding: 8px;
+  background-color: #FF5959;
+  border-radius: 7px;
+}
+.donate {
+  color: black;
+  padding: 15% 25%;
+  text-align: center;
+  margin-bottom: 40px;
+
+}
+.donate h1 {
+  text-transform: capitalize;
+}
+.buttons {
+  display: flex;
+}
+button {
+  color: #707070;
+  padding: 9px 9px;
+  font-size: 29px;
+  font-weight: 600;
+  border: none;
+  margin: 0 3px;
+  border-radius: 7px;
+
+}
+#special {
+  color: #FF5959;
+  background-color: #FFEEEE;
+  border: 2px solid #FF5C5C;
+  padding: 9px 9px;
+  font-size: 29px;
+  font-weight: 600;
+
+  margin: 0 3px;
+  border-radius: 7px;
+}
+.inp {
+  margin-top: 64px;
+  color: #B7B7B7;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid #B7B7B7;
+  width: 100%;
+
+  text-align: center;
+  margin-bottom: 22px;
+}
+
+.tripleXcont {
+  text-align: center;
+  padding: 0 25%;
+}
+.parts {
+  display: flex;
+  padding: 5px 5%;
+}
+.sec p {
+  color: #B7B7B7;
+}
+.sec {
+  border: transparent;
+  padding: 5% 3px;
+  margin: 5% 1.5%;
+  border-radius: 7px;
+}
+.first {
+  background-color: #EDF5F6;
+}
+.second {
+  background-color: #FFEEEE;
+}
+.third {
+  background-color: #FFF4D6;
+}
+.double {
+  display: flex;
+  padding:6%;
+}
+.text {
+  padding:5% 0;
+  width: 100%;
+  text-align: justify;
+  margin-right: 2%;
+}
+.image {
+  padding: 5%;
+  
+}
+.r {
+ padding-right:0;
+}
+.l {
+  padding-left: 0;
+}
+.text p {
+  color: #B7B7B7;
+}
+.text h1 {
+  font-size: 40px;
+}
+.update {
+  text-align: center;
+  margin-top:2.5%;
+  padding:0 20%;
+}
+.email {
+  padding: 5% 2.5%; 
+  background-color: #FFF4D6;
+  
+  margin: 16%;
+}
+.redbut {
+  padding-top: 3%;
+  padding-bottom: 5%;
+  padding-left: 34%;
+}
+.letter {
+  color:#AA9F9F ;
+  outline: none;
+  border:none;
+  background-color:#D9D9D9 ;
+  height: 35px;
+  padding: 0 5px;
+  margin: 0;
+  border-radius: 5px 0 0 5px;
+}
+.sub {
+  color: #fff;
+  background-color:#FF5959 ;
+  border: none;
+  height: 35px;
+  margin-left: 0;
+  padding: 0px 20px;
+  position: relative;
+  left: -5px;
+  border-radius: 0 5px 5px 0;
+}
+
+
+
+
+
+footer {
+  text-align: center;
+  background-color: #000000;
+  height: 60px;
+}
+.foot {
+  margin: 50px;
+ 
+}
+footer p {
+  color:#fff;
+  font-size: 08px;
+}
+
+
+
+
+footer h3 {
+  font-family: 'Lobster', cursive;
+  font-weight: 500;
+  color:#FF5959;
+}
