@@ -50,7 +50,7 @@ a
 }
 .buttons {
   display: flex;
-  padding-left: 25%;
+  item-align: center;
 }
 button {
   color: #707070;
