@@ -353,7 +353,8 @@ button {
   margin: 16%;
 }
 .redbut {
-  padding: 3% 25%;
+  padding: 3%;
+  text-align:center;
 }
 .letter {
   color:#AA9F9F ;
